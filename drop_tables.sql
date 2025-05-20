@@ -1,0 +1,9 @@
+USE menu_db;
+
+DROP TABLE IF EXISTS order_items;
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS daily_menu;
+DROP TABLE IF EXISTS food;
+DROP TABLE IF EXISTS professor;
+DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS human;
